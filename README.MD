@@ -3,3 +3,4 @@
 * Agung Malik Al Qindy
 * Salwa Labibah
 * Dhoriffito Diansyah Putraa
+* Nadya Putri Amalia
