@@ -1,3 +1,4 @@
-Zaed Abdullah
-Aldin Ariel Pramudya
-Agung Malik Al Qindy
+* Zaed Abdullah
+* Aldin Ariel Pramudya
+* Agung Malik Al Qindy
+* Salwa Labibah
